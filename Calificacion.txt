@@ -1,0 +1,16 @@
+Detalle Calificacion   22/27
+Requisitos Funcionales (15 Puntos): (5 por pagina) 12.5 Puntos = (3, 4.5, 5). Excelente Formulario. Los locales estan muy bien pero no puso ninguna imagen y la presentacion no es tan buena por eso le baje 0.5.
+Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. Tiene errores en la consola por elementos nulos. Le puse un punto porque no tiene ademas errores.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos):  1.5 Puntos. Buen uso de funciones y codigo pero tenia funciones que no correspondian al proyecto como la funcion usuarioIngreso() que valida el campo username que no se donde esta en este proyecto.
+Buen Uso de Jquery y Galeria (2.5 Puntos): 2.25 Puntos. La galeria funciona perfecto. No usaron JQuery para validar campos en el formulario.
+Uso de los media Queries (2.5 Puntos): 2 Puntos. Tienen media Queries pero su menu movil no funciona bien (no redirecciona a las paginas)
+Comentarios (1 Punto): 1 Punto. Buenos comentarios
+Pagina con buena estetica (1 Punto): 0.75 Puntos.
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 22 Puntos.
+
+Comentarios Profesor
+Le faltaron algunas cosas.
+Poner las peliculas como imagenes no ayuda, ya que el texto no es indexable por un buscador.
+A pesar de que ha hecho el codigo para la pagina de las peliculas, no lo uso al llenar el html.
+Tiene errores de consola que podian ser resueltos usando varios archivos JS y try and catch.
